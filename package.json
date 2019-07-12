@@ -34,7 +34,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://nuseehr.github.io/react-infinite-scroll-feed",
+  "homepage": "http://nuseehr.github.io/react-infinite-feed",
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "lodash": "^4.17.14",

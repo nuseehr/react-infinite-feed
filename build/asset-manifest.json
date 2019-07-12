@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-infinite-scroll-feed/static/css/main.1a4e7c68.chunk.css",
-    "main.js": "/react-infinite-scroll-feed/static/js/main.e17504f2.chunk.js",
-    "main.js.map": "/react-infinite-scroll-feed/static/js/main.e17504f2.chunk.js.map",
-    "runtime~main.js": "/react-infinite-scroll-feed/static/js/runtime~main.0fbe8d96.js",
-    "runtime~main.js.map": "/react-infinite-scroll-feed/static/js/runtime~main.0fbe8d96.js.map",
-    "static/css/2.2839a729.chunk.css": "/react-infinite-scroll-feed/static/css/2.2839a729.chunk.css",
-    "static/js/2.06d68f75.chunk.js": "/react-infinite-scroll-feed/static/js/2.06d68f75.chunk.js",
-    "static/js/2.06d68f75.chunk.js.map": "/react-infinite-scroll-feed/static/js/2.06d68f75.chunk.js.map",
-    "index.html": "/react-infinite-scroll-feed/index.html",
-    "precache-manifest.5e7c7d0fe6d36cc67e4cbbeaf68a51cc.js": "/react-infinite-scroll-feed/precache-manifest.5e7c7d0fe6d36cc67e4cbbeaf68a51cc.js",
-    "service-worker.js": "/react-infinite-scroll-feed/service-worker.js",
-    "static/css/2.2839a729.chunk.css.map": "/react-infinite-scroll-feed/static/css/2.2839a729.chunk.css.map",
-    "static/css/main.1a4e7c68.chunk.css.map": "/react-infinite-scroll-feed/static/css/main.1a4e7c68.chunk.css.map"
+    "main.css": "/react-infinite-feed/static/css/main.746c7c90.chunk.css",
+    "main.js": "/react-infinite-feed/static/js/main.0f462f0c.chunk.js",
+    "main.js.map": "/react-infinite-feed/static/js/main.0f462f0c.chunk.js.map",
+    "runtime~main.js": "/react-infinite-feed/static/js/runtime~main.dc310a86.js",
+    "runtime~main.js.map": "/react-infinite-feed/static/js/runtime~main.dc310a86.js.map",
+    "static/css/2.b21477da.chunk.css": "/react-infinite-feed/static/css/2.b21477da.chunk.css",
+    "static/js/2.d6775bcd.chunk.js": "/react-infinite-feed/static/js/2.d6775bcd.chunk.js",
+    "static/js/2.d6775bcd.chunk.js.map": "/react-infinite-feed/static/js/2.d6775bcd.chunk.js.map",
+    "index.html": "/react-infinite-feed/index.html",
+    "precache-manifest.bb353cd9ff6271d886a6bdb17c7118f9.js": "/react-infinite-feed/precache-manifest.bb353cd9ff6271d886a6bdb17c7118f9.js",
+    "service-worker.js": "/react-infinite-feed/service-worker.js",
+    "static/css/2.b21477da.chunk.css.map": "/react-infinite-feed/static/css/2.b21477da.chunk.css.map",
+    "static/css/main.746c7c90.chunk.css.map": "/react-infinite-feed/static/css/main.746c7c90.chunk.css.map"
   }
 }
